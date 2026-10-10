@@ -1,4 +1,4 @@
-package MiniWaze;
+package CalculadoraDeRotas;
 
 public class MapaCidade {
     private static final double INF = 999.0;
